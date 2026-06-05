@@ -17,7 +17,7 @@
 #  Every future deploy is just: fly deploy
 # ────────────────────────────────────────────────────────────────────────────────
 
-app            = 'silent-wolf-bot'
+app            = 'WOLFBOT'
 primary_region = 'lad'
 kill_signal    = 'SIGINT'
 kill_timeout   = '30s'
